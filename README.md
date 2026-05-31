@@ -8,7 +8,7 @@ The project performs data cleaning, data visualization, and statistical analysis
 
 ---
 
-## Technologies Used
+## Technologies Used 
 - Python
 - Pandas
 - Matplotlib
